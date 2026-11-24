@@ -11,3 +11,4 @@ Homebrew 6부터 비공식 tap은 untrusted라 첫 설치 때 전체 이름(`cgp
 | cask | 앱 | 배포 |
 | --- | --- | --- |
 | `double-command` | Double Command | https://github.com/cgpathos/double-command |
+| `rejig` | Rejig | https://github.com/cgpathos/rejig |
