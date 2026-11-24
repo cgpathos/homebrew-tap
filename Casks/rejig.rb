@@ -1,6 +1,6 @@
 cask "rejig" do
-  version "1.2.0"
-  sha256 "be9c0eda014e14d47394d8a8fa491cca473393fb058424dad868cbc6bf458fd6"
+  version "1.3.0"
+  sha256 "3eb8c58d2e1e8ee4ad44e526ae268ba872fc440330871d94a4813ad9df7711b8"
 
   url "https://github.com/cgpathos/rejig/releases/download/v#{version}/Rejig-#{version}.dmg"
   name "Rejig"
